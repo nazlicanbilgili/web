@@ -23,3 +23,14 @@ h3{
     color:chartreuse; 
     margin: 100px;
 }
+
+.table1 th,
+.table1 td {
+    border: 2px solid red
+}
+
+
+.table2 th,
+.table2 td{
+    border: 2px solid rgb(21, 60, 189)
+}
